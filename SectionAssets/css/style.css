@@ -10,11 +10,16 @@
 .container {
   background-color: black;
   color: white;
+  border-style: double;
+  border-color: blueviolet;
+  text-align: center;
 }
 
 #section-1 {
   background-color: purple;
   color: yellow;
+  border-style: dotted;
+  text-align: right;
 
 }
 
@@ -29,5 +34,7 @@
 
 #section-blue{
   background-color: blue;
+  border-style: solid;
+  border-color: aqua;
 }
 
